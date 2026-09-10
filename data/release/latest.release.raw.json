@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4552008,
       "digest": "sha256:2bc0a97ae4f03ec8169f6ce1319099ac4b6f9901247f62ffc61178a7347a59e4",
-      "download_count": 1938,
+      "download_count": 1940,
       "created_at": "2025-11-03T15:02:38Z",
       "updated_at": "2025-11-03T15:02:39Z",
       "browser_download_url": "https://github.com/brocode/fblog/releases/download/v4.17.0/fblog"
