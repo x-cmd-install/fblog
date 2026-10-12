@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-12 | 0 | 2 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-13 | 0 | 3 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-14 | 0 | 7 | 0 | 0 | 0 | 10 |
-| 360d | 2025-10-16 | 1 | 17 | 0 | 3 | 1 | 21 |
-| last720d | 2024-10-21 | 4 | 34 | 0 | 5 | 1 | 51 |
+| 30d | 2026-09-12 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-13 | 0 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-07-14 | 0 | 3 | 0 | 0 | 0 | 4 |
+| last180d | 2026-04-15 | 0 | 7 | 0 | 0 | 0 | 10 |
+| 360d | 2025-10-17 | 1 | 17 | 0 | 3 | 1 | 21 |
+| last720d | 2024-10-22 | 4 | 34 | 0 | 5 | 1 | 51 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fblog lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:22:54Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:45:52Z._
