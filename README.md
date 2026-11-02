@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.17.0` (2025-11-03)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-11-01
 - **Assets in release**: 2
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 75 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 3 · **Commits**: 405
+- **Releases**: 40 · **Merged PRs**: 76 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 3 · **Commits**: 406
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-03 | 0 | 2 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-05 | 0 | 5 | 0 | 0 | 0 | 8 |
-| 360d | 2025-11-06 | 0 | 15 | 0 | 1 | 1 | 18 |
-| last720d | 2024-11-11 | 4 | 33 | 0 | 5 | 1 | 50 |
+| 30d | 2026-10-03 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-03 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-04 | 0 | 3 | 0 | 0 | 0 | 5 |
+| last180d | 2026-05-06 | 0 | 6 | 0 | 0 | 0 | 9 |
+| 360d | 2025-11-07 | 0 | 16 | 0 | 1 | 1 | 19 |
+| last720d | 2024-11-12 | 4 | 34 | 0 | 5 | 1 | 51 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for fblog lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:48:30Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:57:26Z._
