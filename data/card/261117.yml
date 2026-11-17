@@ -1,0 +1,126 @@
+about:
+  description: "Small command-line JSON Log viewer"
+  license: WTFPL
+  homepage: 
+  head: 229d607
+  archived: false
+  latestVersion: "v4.17.0"
+  latestRelease: "v4.17.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-17T09:17:08Z
+timeline:
+  created: 2017-07-06
+  lastCommit: 2026-11-01
+  lastVersion: 2025-11-03
+  lastRelease: 2025-11-03
+  lastPrerelease: 
+popularity:
+  star: 571
+  watcher: 3
+  fork: 35
+  release: 40
+  contributor: 12
+  pullRequest: 119
+  issue: 31
+language:
+  Rust: 50739
+  Dockerfile: 104
+totalBytes: 50843
+recent:
+  last30d:
+    since: 2026-10-18
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1
+  last60d:
+    since: 2026-09-18
+    release: 0
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2
+  last90d:
+    since: 2026-08-19
+    release: 0
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 3
+  last180d:
+    since: 2026-05-21
+    release: 0
+    mergedPR: 6
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 9
+  last360d:
+    since: 2025-11-22
+    release: 0
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 18
+  last720d:
+    since: 2024-11-27
+    release: 4
+    mergedPR: 33
+    openPR: 0
+    closedIssue: 5
+    openIssue: 1
+    commit: 47
+total:
+  release: 40
+  mergedPR: 76
+  openPR: 0
+  closedIssue: 28
+  openIssue: 3
+  commit: 406
+---
+path: /home/runner/.x-repo/github.com/brocode/fblog
+collectedAt: 2026-11-17T09:17:09Z
+loc:
+  Rust:
+    code: 1368
+    comments: 5
+    blanks: 183
+    files: 10
+  Svg:
+    code: 88
+    comments: 1
+    blanks: 0
+    files: 2
+  Toml:
+    code: 42
+    comments: 0
+    blanks: 4
+    files: 3
+  Dockerfile:
+    code: 4
+    comments: 0
+    blanks: 2
+    files: 1
+  Json:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 114
+    blanks: 60
+    files: 1
+total:
+  code: 1565
+  comments: 125
+  blanks: 252
+  files: 18
+---
+
+---
