@@ -30,9 +30,9 @@ Overall score: **3.2 / 10**
 
 Lowest-scoring checks:
 
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 3/11 approved changesets -- score normalized to 2
 - **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
-- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-24 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-25 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last180d | 2026-05-27 | 0 | 6 | 0 | 0 | 0 | 9 |
-| 360d | 2025-11-28 | 0 | 15 | 0 | 1 | 1 | 16 |
-| last720d | 2024-12-03 | 4 | 32 | 0 | 5 | 1 | 46 |
+| 30d | 2026-10-25 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-25 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-26 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last180d | 2026-05-28 | 0 | 6 | 0 | 0 | 0 | 9 |
+| 360d | 2025-11-29 | 0 | 15 | 0 | 1 | 1 | 16 |
+| last720d | 2024-12-04 | 4 | 32 | 0 | 5 | 1 | 46 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for fblog lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:13:36Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:04:41Z._
